@@ -1,0 +1,20 @@
+#main{
+    background-color: rgb(224, 218, 218);
+    border-radius: 10px;
+    /*display: flex;*/
+    margin:1% 1% 1% 1%;
+}
+#title{
+    text-align:center;
+    padding-top: 2%;
+}
+#tribute-info{
+    margin: 0% 20% 20% 20%;
+    
+}
+#img-div{
+    background-color: #ffffff;
+}
+li{
+    padding-top: 2%;
+}
