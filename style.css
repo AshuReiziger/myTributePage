@@ -4,12 +4,15 @@
     /*display: flex;*/
     margin:1% 1% 1% 1%;
 }
+h3{
+    text-align: center;
+}
 #title{
     text-align:center;
     padding-top: 2%;
 }
 #tribute-info{
-    margin: 0% 20% 20% 20%;
+    margin: 0% 20% 5% 20%;
     
 }
 #img-div{
@@ -31,3 +34,13 @@ li{
     margin-right: auto;
     width: 80%;
   }
+
+.article1{
+    display: block;
+    padding: 0% 20% 5% 20%;
+}
+
+.article2{
+    display: block;
+    padding: 0% 10% 10% 10% ;
+}
